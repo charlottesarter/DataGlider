@@ -6,3 +6,4 @@ Projet réalisé dans le cadre de la matière Visualisation de données enseign�
 - Superbowl commercials https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md
 - Ask a Manager Survey https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-05-18/readme.md#surveycsv
 - World energy consumption https://www.kaggle.com/pralabhpoudel/world-energy-consumption
+- Covid19 https://www.kaggle.com/georgesaavedra/covid19-dataset
